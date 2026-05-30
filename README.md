@@ -19,9 +19,11 @@ A native Android app to monitor your **Jellyfin** and **Plex** media servers fro
 
 ## Install
 
-MediaMonitor is distributed on the **Google Play Store** (link coming soon).
+[![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mediamonitor.media_monitor)
 
-This repository hosts the public-facing documentation for the app. The source code is kept private. Watch this repo to be notified when the Play Store listing goes live.
+MediaMonitor is available on the [**Google Play Store**](https://play.google.com/store/apps/details?id=com.mediamonitor.media_monitor).
+
+This repository hosts the public-facing documentation for the app. The source code is kept private.
 
 ## Documentation
 
