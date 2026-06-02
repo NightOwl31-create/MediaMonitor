@@ -25,6 +25,21 @@ MediaMonitor is available on the [**Google Play Store**](https://play.google.com
 
 This repository hosts the public-facing documentation for the app. The source code is kept private.
 
+## Screenshots
+
+<p align="center">
+  <img src="playstore/playstore-00-cover.png" alt="MediaMonitor" width="220" />
+  <img src="playstore/playstore-01-sessions-actives.jpg" alt="Live sessions" width="220" />
+  <img src="playstore/playstore-02-historique.jpg" alt="History" width="220" />
+</p>
+<p align="center">
+  <img src="playstore/playstore-03-serveurs-bibliotheques.jpg" alt="Servers and libraries" width="220" />
+  <img src="playstore/playstore-04-notifications.jpg" alt="Notifications" width="220" />
+  <img src="playstore/playstore-05-onboarding-langues.jpg" alt="Language selector" width="220" />
+</p>
+
+Full set of Play Store assets in [playstore/](playstore/).
+
 ## Documentation
 
 - [Privacy policy](PRIVACY.md) — what is stored, where, and why
