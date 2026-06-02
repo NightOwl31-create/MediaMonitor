@@ -16,9 +16,10 @@ Phone screenshots (1080x2400 portrait), shown in the order they appear on the li
 |---|---|---|
 | 00 | [Cover](playstore-00-cover.png) | Marketing cover with logo and tagline |
 | 01 | [Sessions](playstore-01-sessions-actives.jpg) | Live sessions across Plex and Jellyfin servers |
-| 02 | [History](playstore-02-historique.jpg) | Unified playback history with movie posters |
-| 03 | [Servers](playstore-03-serveurs-bibliotheques.jpg) | Connected servers and library stats |
-| 04 | [Notifications](playstore-04-notifications.jpg) | Background notifications settings |
-| 05 | [Languages](playstore-05-onboarding-langues.jpg) | First-launch language selector (24 languages) |
+| 02 | [Choose servers](playstore-02-choose-servers.jpg) | Onboarding: pick the server types to connect |
+| 03 | [Languages](playstore-03-onboarding-langues.jpg) | First-launch language selector (24 languages) |
+| 04 | [History](playstore-04-historique.jpg) | Unified playback history with movie posters |
+| 05 | [Servers](playstore-05-serveurs-bibliotheques.jpg) | Connected servers and library stats |
+| 06 | [Notifications](playstore-06-notifications.jpg) | Background notifications settings |
 
 IP addresses visible on the sessions screenshot have been blurred for privacy.
