@@ -1,6 +1,6 @@
 # MediaMonitor
 
-A native Android app to monitor your **Jellyfin** and **Plex** media servers from your phone — sessions, playback history, what's new in your libraries, and optional background notifications. Multi-account, fully local, no telemetry.
+A native Android app to monitor your **Plex** and **Jellyfin** media servers from your phone — sessions, playback history, library stats, and optional background notifications. Read-only companion to the servers you already run, no extra service to deploy, no cloud, no account.
 
 [![Platform](https://img.shields.io/badge/platform-Android%207%2B-3DDC84)]()
 [![Languages](https://img.shields.io/badge/i18n-24%20languages-orange)]()
@@ -9,12 +9,14 @@ A native Android app to monitor your **Jellyfin** and **Plex** media servers fro
 
 ## Highlights
 
-- **Multi-account** — Connect any number of Jellyfin and/or Plex servers, side by side
-- **Real-time sessions** — Who's watching what, where, with full format / transcoding details
+- **Monitor Plex and Jellyfin from one app** — Sessions, history and library stats from both ecosystems in a single read-only interface (the app does not stream, transcode or replace your servers)
+- **No extra service to deploy** — The app talks directly to the Plex and Jellyfin servers you already run. No backend service of mine, no companion dashboard to host, no cloud, no account on my side
+- **Multi-account** — Connect any number of Plex and/or Jellyfin servers
+- **Real-time sessions** — Who's watching what, where, with full format and transcoding details
 - **History** — Unified, paginated, filterable, with detail sheets
 - **Recently added** — Movies, episodes and shows across all servers
 - **Notifications** *(opt-in)* — Background polling, three event types, per-server filtering
-- **Privacy-first** — Tokens encrypted via Android Keystore; IP geo lookup is 100% offline
+- **Privacy-first** — Tokens encrypted via Android Keystore; IP geo lookup is 100% offline; no telemetry
 - **24 languages** — Including RTL (Arabic, Hebrew)
 
 ## Install
