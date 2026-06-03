@@ -28,17 +28,15 @@ This repository hosts the public-facing documentation for the app. The source co
 ## Screenshots
 
 <p align="center">
-  <img src="playstore/playstore-00-cover.png" alt="MediaMonitor" width="220" />
   <img src="playstore/playstore-01-choose-servers.jpg" alt="Choose servers" width="220" />
-  <img src="playstore/playstore-02-live-sessions.jpg" alt="Live sessions" width="220" />
+  <img src="playstore/playstore-02-language-picker.jpg" alt="Language picker" width="220" />
+  <img src="playstore/playstore-03-live-sessions.jpg" alt="Live sessions" width="220" />
+  <img src="playstore/playstore-04-live-sessions-transcoding.jpg" alt="Live sessions with transcoding" width="220" />
 </p>
 <p align="center">
-  <img src="playstore/playstore-03-language-picker.jpg" alt="Language picker" width="220" />
-  <img src="playstore/playstore-04-history.jpg" alt="History" width="220" />
-  <img src="playstore/playstore-05-servers-libraries.jpg" alt="Servers and libraries" width="220" />
-</p>
-<p align="center">
-  <img src="playstore/playstore-06-notifications.jpg" alt="Notifications" width="220" />
+  <img src="playstore/playstore-05-history.jpg" alt="History" width="220" />
+  <img src="playstore/playstore-06-servers-libraries.jpg" alt="Servers and libraries" width="220" />
+  <img src="playstore/playstore-07-notifications.jpg" alt="Notifications" width="220" />
 </p>
 
 Full set of Play Store assets in [playstore/](playstore/).
